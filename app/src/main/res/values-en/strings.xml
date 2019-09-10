@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">MovieCatalogueUIUX</string>
+    <string name="tab_movies">MOVIES</string>
+    <string name="tab_tv_shows">TV SHOWS</string>
+    <string name="overview">Overview</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <array name="data_movie_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>BumbleBell</item>
+        <item>Creed II</item>
+        <item>Once Upon A Deadpool</item>
+        <item>How To Train Your Dragon: The Hidden World</item>
+        <item>The Movie DragonBall Broly</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mortal Engines</item>
+    </array>
+
+    <array name="data_movie_date">
+        <item>October 3, 2018</item>
+        <item>December 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>December 13, 2018</item>
+        <item>October 24, 2018</item>
+        <item>December 15, 2018</item>
+        <item>November 21, 2018</item>
+        <item>December 11, 2018</item>
+        <item>January 3, 2019</item>
+        <item>March 6,1993</item>
+        <item>January 16, 2019</item>
+        <item>October 19, 2018</item>
+        <item>November 27, 2018</item>
+    </array>
+
+    <array name="data_movie_score">
+        <item>Score : 75%</item>
+        <item>Score : 68%</item>
+        <item>Score : 83%</item>
+        <item>Score : 73%</item>
+        <item>Score : 81%</item>
+        <item>Score : 65%</item>
+        <item>Score : 67%</item>
+        <item>Score : 69%</item>
+        <item>Score : 76%</item>
+        <item>Score : 73%</item>
+        <item>Score : 65%</item>
+        <item>Score : 63%</item>
+        <item>Score : 60%</item>
+    </array>
+
+    <array name="data_movie_overview">
+        <item>Seasoned musician Jackson Maine discovers and falls in love with struggling artist
+            Ally. She has just about given up on her dream to make it big as a singer until Jack
+            coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side
+            of their relationship is breaking down, as Jack fights an ongoing battle with his own
+            internal demons.
+        </item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater
+            kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans
+            to conquer the remaining oceanic people and then the surface world. Standing in his way
+            is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.
+        </item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too
+            large for any one hero to handle, a new danger has emerged from the cosmic shadows:
+            Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity
+            Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all
+            of reality. Everything the Avengers have fought for has led up to this moment - the fate
+            of Earth and existence itself has never been more uncertain.
+        </item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a
+            survivor and her two children make a desperate bid to reach safety.
+        </item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist
+            John Deacon take the music world by storm when they form the rock \'n\' roll band Queen
+            in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle
+            starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a
+            way to keep the band together amid the success and excess.
+        </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small
+            Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place
+            in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him,
+            she quickly learns this is no ordinary yellow VW bug.
+        </item>
+        <item>Between personal obligations and training for his next big fight against an opponent
+            with ties to his family\'s past, Adonis Creed is up against the challenge of his life.
+        </item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2
+            as a Princess Bride-esque story that\'s full of magic, wonder zero F\'s.
+        </item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’
+            discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at
+            home and Hiccup’s reign as village chief is tested, both dragon and rider must make
+            impossible decisions to save their kind.
+        </item>
+        <item>As Goku investigates the destruction of the Southern Galaxy, Vegeta is taken to be
+            King of the New Planet Vegeta, and to destroy the Legendary Super Saiyan, Broly.
+        </item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his
+            supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four
+            personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an
+            orchestrator who holds secrets critical to both men.
+        </item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in
+            Russia, so he and his crew join an elite group working on the ground to prevent a war.
+        </item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels,
+            devouring each other in a struggle for ever diminishing resources. On one of these
+            massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with
+            a mysterious young woman from the wastelands who will change the course of his life
+            forever.
+        </item>
+    </array>
+
+    <array name="data_movie_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_mortalengine</item>
+    </array>
+
+    <array name="data_tvshows_name">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>Game Of Thrones</item>
+        <item>Gotham</item>
+        <item>Grey Anatomi</item>
+        <item>Hanna</item>
+    </array>
+
+    <array name="data_tvshows_date">
+        <item>October 10, 2012</item>
+        <item>February 15, 2019</item>
+        <item>February 26, 1986</item>
+        <item>October 12, 2009</item>
+        <item>January 31, 1999</item>
+        <item>October 7, 2014</item>
+        <item>April 17, 2011</item>
+        <item>September 22, 2014</item>
+        <item>March 27, 2005</item>
+        <item>March 28, 2019</item>
+    </array>
+    <array name="data_tvshows_score">
+        <item>Score : 75%</item>
+        <item>Score : 62%</item>
+        <item>Score : 70%</item>
+        <item>Score : 64%</item>
+        <item>Score : 65%</item>
+        <item>Score : 67%</item>
+        <item>Score : 81%</item>
+        <item>Score : 68%</item>
+        <item>Score : 63%</item>
+        <item>Score : 64%</item>
+    </array>
+
+    <array name="data_tvshows_overview">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht
+            is lost at sea. He returns five years later a changed man, determined to clean up the
+            city as a hooded vigilante armed with a bow.
+        </item>
+        <item>The Doom Patrols members each suffered horrible accidents that gave them superhuman
+            abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the
+            team found purpose through The Chief, who brought them together to investigate the
+            weirdest phenomena in existence and to protect Earth from what they find.
+        </item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy
+            whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The
+            young and very strong boy was on his own, but easily managed. Then one day, Goku met a
+            teenage girl named Bulma, whose search for the dragon balls brought her to Gokus home.
+            Together, they set off to find all seven dragon balls in an adventure.
+        </item>
+        <item>Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting
+            Harujion Town, she meets Natsu, a young man who gets sick easily by any type of
+            transportation. But Natsu isnt just any ordinary kid, hes a member of one of the worlds
+            most infamous mage guilds: Fairy Tail.
+        </item>
+        <item>Sick, twisted, politically incorrect and Freakin Sweet animated series featuring the
+            adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois
+            have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and
+            taking over the world), Meg (the oldest, and is the most unpopular girl in town) and
+            Chris (the middle kid, hes not very bright but has a passion for movies). The final
+            member of the family is Brian a talking dog and much more than a pet, he keeps Stewie in
+            check whilst sipping Martinis and sorting through his own life issues.
+        </item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is
+            struck by lightning and falls into a coma. Months later he awakens with the power of
+            super speed, granting him the ability to move through Central City like an unseen
+            guardian angel. Though initially excited by his newfound powers, Barry is shocked to
+            discover he is not the only meta-human who was created in the wake of the accelerator
+            explosion and not everyone is using their new powers for good. Barry partners with
+            S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close
+            friends and associates know that Barry is literally the fastest man alive, but it wont
+            be long before the world learns what Barry Allen has become...The Flash.
+        </item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction
+            between the houses leads to full-scale war. All while a very ancient evil awakens in the
+            farthest north. Amidst the war, a neglected military order of misfits, the Nights Watch,
+            is all that stands between the realms of men and icy horrors beyond.
+        </item>
+        <item>Before there was Batman, there was GOTHAM. Everyone knows the name Commissioner
+            Gordon. He is one of the crime worlds greatest foes, a man whose reputation is
+            synonymous with law and order. But what is known of Gordons story and his rise from
+            rookie detective to Police Commissioner? What did it take to navigate the multiple
+            layers of corruption that secretly ruled Gotham City, the spawning ground of the worlds
+            most iconic villains? And what circumstances created them the larger-than-life personas
+            who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?
+        </item>
+        <item>Follows the personal and professional lives of a group of doctors at Seattles Grey
+            Sloan Memorial Hospital.
+        </item>
+        <item>This thriller and coming-of-age drama follows the journey of an extraordinary young
+            girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth
+            the truth behind who she is. Based on the 2011 Joe Wright film.
+        </item>
+    </array>
+
+    <array name="data_tvshows_photo">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+    </array>
+</resources>

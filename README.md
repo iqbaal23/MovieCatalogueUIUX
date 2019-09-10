@@ -1,1 +1,1 @@
-# Submission 1 dicoding kelas MADE
+# Submission 2 dicoding kelas MADE
